@@ -1,0 +1,9 @@
+Number of pregnancies: 6
+Glucose concentration: 148
+Blood pressure: 72
+Skin thickness: 35
+Insulin level: 0
+BMI: 33.6
+Diabetes Pedigree Function: 0.627
+Age: 50
+Prediction: You have diabetes.
